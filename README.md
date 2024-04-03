@@ -1,5 +1,5 @@
-# Responsive Cactus Website
-## [Watch it on youtube](https://youtu.be/x9pm31GVduo)
+# WE ARE GRIND*R
+## Inspired from [Watch it on youtube](https://youtu.be/x9pm31GVduo)
 ### Responsive Cactus Website
 
 - Responsive Cactus Website Design Using HTML CSS And JavaScript
